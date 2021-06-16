@@ -23,3 +23,6 @@ Remember to use the 'Reload taiHen config.txt' function of MolecularShell.
  ### In Menu: ##
  - Press Circle to close menu.
  - Press Left or Right pad to enable/disable filter.
+
+### TODO: ###
+ - Turn this into a kernel plugin.
